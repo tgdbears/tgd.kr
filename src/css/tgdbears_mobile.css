@@ -111,7 +111,7 @@ header>#header-area>#header-bar-link {
 }
 
 header>#header-search-bar #header-search-btn {
-  color: #ed1C24;
+  color: #fff;
 }
 
 #article-list>.article-list-row.notice>.item>a.list-title>.list-writer {
@@ -179,7 +179,7 @@ footer .container a {
   border-radius: 3px;
 }
 
-.form-control {
+#boardSearchForm .form-control {
   border-left: 0;
   border-right: 0;
 }

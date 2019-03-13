@@ -246,7 +246,7 @@ footer .container a {
   border-radius: 3px;
 }
 
-.form-control {
+#boardSearchForm .form-control {
   border-left: 0;
   border-right: 0;
 }
